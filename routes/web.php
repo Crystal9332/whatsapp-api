@@ -21,5 +21,7 @@ Route::post('/register', [App\Http\Controllers\AuthController::class, 'registerA
 
 Route::middleware(['auth'])->group(function () {
     // Routes accessible only to authenticated users
+    Route::get('/logout', [App\Http\Controllers\AuthController::class, 'logout'])->name('logout');
     Route::get('/dashboard', [App\Http\Controllers\DashboardController::class, 'dashboard'])->name('dashboard');
+    Route::get('/chat', [App\Http\Controllers\ChatController::class, 'chatShow'])->name('chat');
 });

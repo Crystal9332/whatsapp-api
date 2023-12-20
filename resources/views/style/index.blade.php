@@ -12,9 +12,20 @@
  <link rel="stylesheet" href="../../assets/vendor/libs/node-waves/node-waves.css" />
  <link rel="stylesheet" href="../../assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.css" />
  <link rel="stylesheet" href="../../assets/vendor/libs/typeahead-js/typeahead.css" />
+ <link rel="stylesheet" href="../../assets/vendor/libs/apex-charts/apex-charts.css" />
+
+ <link rel="stylesheet" href="../../assets/vendor/libs/bootstrap-maxlength/bootstrap-maxlength.css" />
+
  <!-- Vendor -->
  <link rel="stylesheet" href="../../assets/vendor/libs/%40form-validation/umd/styles/index.min.css" />
+ <link rel="stylesheet" href="../../assets/vendor/libs/select2/select2.css" />
+ <link rel="stylesheet" href="../../assets/vendor/libs/tagify/tagify.css" />
+ <link rel="stylesheet" href="../../assets/vendor/libs/bootstrap-select/bootstrap-select.css" />
+ <link rel="stylesheet" href="../../assets/vendor/libs/typeahead-js/typeahead.css" />
+ <link rel="stylesheet" href="../../assets/vendor/libs/node-waves/node-waves.css" />
+ <link rel="stylesheet" href="../../assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.css" />
+ <link rel="stylesheet" href="../../assets/vendor/libs/typeahead-js/typeahead.css" />
 
  <!-- Page CSS -->
- <!-- Page -->
  <link rel="stylesheet" href="../../assets/vendor/css/pages/page-auth.css">
+ <link rel="stylesheet" href="../../assets/vendor/css/pages/app-chat.css">
