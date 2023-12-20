@@ -24,4 +24,5 @@ Route::middleware(['auth'])->group(function () {
     Route::get('/logout', [App\Http\Controllers\AuthController::class, 'logout'])->name('logout');
     Route::get('/dashboard', [App\Http\Controllers\DashboardController::class, 'dashboard'])->name('dashboard');
     Route::get('/chat', [App\Http\Controllers\ChatController::class, 'chatShow'])->name('chat');
+    Route::get('/employees', [App\Http\Controllers\EmployeesController::class, 'employeeShow'])->name('employees');
 });

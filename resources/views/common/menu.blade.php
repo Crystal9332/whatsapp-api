@@ -39,5 +39,18 @@
                 <div data-i18n="Chat">Chat</div>
             </a>
         </li>
+        <li class="menu-item">
+            <a href="{{ route('employees') }}" class="menu-link">
+                <i class="menu-icon ti ti-users fs-4"></i>
+                <div data-i18n="Employees">Employees</div>
+            </a>
+        </li>
+
+        <li class="menu-item">
+            <a href="#" class="menu-link">
+                <i class="menu-icon tf-icons ti ti-id"></i>
+                <div data-i18n="Payments History">Payments History</div>
+            </a>
+        </li>
     </ul>
 </aside>
