@@ -25,7 +25,7 @@
                                     <div class="col-md-6 mb-4">
                                         <select id="select2Basic" class="select2 form-select form-select-lg"
                                             data-allow-clear="true">
-                                            <option value="AK">Alaska</option>
+                                            <option value="AK">Jone Clone</option>
                                             <option value="HI">Hawaii</option>
                                             <option value="CA">California</option>
                                             <option value="NV">Nevada</option>
